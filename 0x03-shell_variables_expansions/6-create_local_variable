@@ -1,5 +1,3 @@
-#!/bin/bash
-func() {
- BEST = "School"
- echo $BEST
-}
+#!/bin/bash 
+BEST = "School"
+
